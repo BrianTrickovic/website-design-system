@@ -1,0 +1,13 @@
+section {
+  border: 1px solid #000;
+}
+
+.colors {
+  text-align: center;
+}
+
+.rose {
+  background-color: #FF0080;
+  width: 150px;
+  padding: 15px;
+}
