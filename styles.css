@@ -2,12 +2,24 @@ section {
   border: 1px solid #000;
 }
 
-.colors {
+#colors {
   text-align: center;
+}
+
+.colors div {
+  width: 150px;
+  padding: 15px;
+  display: inline-block;
 }
 
 .rose {
   background-color: #FF0080;
-  width: 150px;
-  padding: 15px;
+}
+
+.leaf {
+  background-color: #2D5A27;
+}
+
+.ocean {
+  background-color: #006994;
 }
